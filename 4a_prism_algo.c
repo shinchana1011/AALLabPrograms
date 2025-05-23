@@ -1,3 +1,6 @@
+6. Execute a C program to demonstrate the working of Prim's Algorithm for finding the Minimum
+Spanning Tree (MST) of a connected, undirected, weighted graph.
+
 #include <stdio.h>
 #include <limits.h>
 #include <stdbool.h>
